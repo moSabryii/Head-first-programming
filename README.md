@@ -1,2 +1,2 @@
-# Head first programming book
+# Head first programming book assignments
 
