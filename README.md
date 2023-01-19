@@ -1,2 +1,2 @@
-# Python-Small-Projects
-small projects using python
+# Head first programming book
+
